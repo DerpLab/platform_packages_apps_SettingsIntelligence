@@ -17,24 +17,24 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Applications settings title. If clicked, the user is taken to a screen full of application settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=5281808652705396152] -->
-    <string name="applications_settings">App info</string>
+    <string name="applications_settings">Информация о приложении</string>
 
     <!-- Settings title in main settings screen for accessibility settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=3975902491934816215] -->
-    <string name="accessibility_settings">Accessibility</string>
+    <string name="accessibility_settings">Специальные возможности</string>
 
     <!-- Title for the 'physical keyboard' settings screen. [CHAR LIMIT=35 BACKUP_MESSAGE_ID=8285149877925752042] -->
-    <string name="physical_keyboard_title">Physical keyboard</string>
+    <string name="physical_keyboard_title">Физическая клавиатура</string>
 
     <!-- Title for the button to trigger the 'Manage keyboards' preference sub-screen, where the user can turn on/off installed virtual keyboards.[CHAR LIMIT=35 BACKUP_MESSAGE_ID=3302152381456516928] -->
-    <string name="add_virtual_keyboard">Manage keyboards</string>
+    <string name="add_virtual_keyboard">Управление клавиатурами</string>
 
     <!-- App name of SettingsIntelligence [CHAR_LIMIT=30] -->
-    <string name="app_name_settings_intelligence">Settings Suggestions</string>
+    <string name="app_name_settings_intelligence">Рекомендации по настройкам</string>
 
     <!-- SEARCH STRINGS -->
 
     <!-- Button to clear all search history in Settings [CHAR LIMIT=40]-->
-    <string name="search_clear_history">Clear history</string>
+    <string name="search_clear_history">Очистить историю</string>
 
     <!-- DO NOT TRANSLATE Summary placeholder -->
     <string name="summary_placeholder" translatable="false">&#160;</string>
@@ -44,5 +44,5 @@
         <xliff:g name="first_item">%1$s</xliff:g> > <xliff:g name="second_item">%2$s</xliff:g>
     </string>
 
-    <string name="search_no_results">No results</string>
+    <string name="search_no_results">Нет результатов</string>
 </resources>
